@@ -1,4 +1,4 @@
-Import streamlit as st
+import streamlit as st
 
 st.write("Hellooo 1/n I'm Back")
 
